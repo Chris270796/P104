@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: teal;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: moccasin;
+}
+
+#camera {
+    border: 2px dashed chocolate;
+    width: 500px;
+    height: 400px;
+}
